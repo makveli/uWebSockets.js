@@ -1,3 +1,3 @@
-[submodule "uWebSockets2"]
-	path = uWebSockets2
+[submodule "uWebSockets"]
+	path = uWebSockets
 	url = https://github.com/makveli/uWebSockets#master
